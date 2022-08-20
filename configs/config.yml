@@ -1,0 +1,7 @@
+host: "localhost"
+
+db:
+  username: "postgres"
+  port: 5433
+  dbname: "golang"
+  sslmode: "disable"
